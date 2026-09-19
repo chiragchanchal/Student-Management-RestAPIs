@@ -1,2 +1,2 @@
-node_modules/
+t add .node_modules/
 .env
